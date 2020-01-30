@@ -1,2 +1,2 @@
-# go-training
+# gotraining
 My Go Training Course
