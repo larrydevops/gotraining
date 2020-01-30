@@ -1,4 +1,3 @@
-### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -6,11 +5,10 @@
 !.vscode/extensions.json
 *.code-workspace
 
-### VisualStudioCode Patch ###
 # Ignore all local history of files
 **/.history
 
-### OS generated files ###
+# OS generated files 
 .DS_Store
 .DS_Store?
 ._*
