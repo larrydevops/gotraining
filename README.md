@@ -19,6 +19,6 @@ brew install go
 
 ### Using  Mac OS package installer
 
-Download the latest Go package (.pkg) file from (Go’s official downloads) page. Open the package and follow the on-screen instructions to install Go. By default, Go will be installed in `/usr/local/go`.
+Download the latest Go package (.pkg) file from [Go’s official downloads](https://golang.org/dl/) page. Open the package and follow the on-screen instructions to install Go. By default, Go will be installed in `/usr/local/go`.
 
 
