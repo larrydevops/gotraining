@@ -1,6 +1,8 @@
 # Golang Training Course
 
 ![Golang Lets GO](golang-lets-go.png)
+
+
 Golang, simplified as GO is an open source, statically typed, compiled programming language built by Google.
 
 It combines the best of both statically typed and dynamically typed languages and gives you the right mixture of efficiency and ease of programming. It is primarily suited for building fast, efficient, and reliable server side applications.
