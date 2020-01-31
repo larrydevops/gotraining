@@ -1,4 +1,4 @@
-# GO Training Course
+# Golang Training Course
 
 ![Golang Lets GO](golang-lets-go.png)
 Golang, simplified as GO is an open source, statically typed, compiled programming language built by Google.
